@@ -1,0 +1,5 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/z6real/cprpg/main/crazy-party-rpg-lvl-farm'))()
+
+if game.placeId == 4042427666 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/z6real/anime-fighting-sim/main/anime-fighting-simulator-farm'))()
+end
